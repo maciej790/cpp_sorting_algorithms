@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710447435 source:c:\users\mysko\onedrive\pulpit\test\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1710442241 source:c:\users\mysko\onedrive\pulpit\test\robocze.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
